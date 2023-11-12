@@ -1,5 +1,5 @@
 # Dataset-Narkotika_217_226
-Dataset ini merupakan kumpulan dari 50 dokumen putusan pengadilan pada direktori Pidana Khusus dengan klasifikasi Narkotika dan Psikotropika yang dikeluarkan oleh Pengadilan Negeri Jakarta Barat. Setiap dokumen putusan tersedia dalam format PDF dan dapat diakses melalui website resmi Direktori Putusan Mahkamah Agung Republik Indonesia. Dataset ini disusun untuk mendukung tugas yang memerlukan analisis atau pemahaman terhadap putusan pengadilan dalam konteks kasus pidana khusus, terutama yang berkaitan dengan narkotika dan psikotropika.
+Dataset ini merupakan kumpulan 327 dokumen putusan dari direktori Pidana Khusus dengan klasifikasi Narkotika dan Psikotropika dikeluarkan oleh Pengadilan Negeri Pekan Baru yang bisa diakses melalui website resmi Direktori Putusan Mahkamah Agung Republik Indonesia. Setiap dokumen putusan disajikan berupa file dengan format PDF yang umumnya digunakan untuk menyimpan informasi seperti teks dan gambar. Data ini juga difokuskan pada kasus kasus pidana khusus terutama berkaitan dengan kejahatan dalam hal Narkotika dan Psikotropika. Tujuan adanya dataset ini untuk mendukung tugas yang memerlukan analisis atau pemahaman terhadap putusan pengadilan yang bisa melibatkan berbagai kegiatan, mulai dari analisis hukum, pemahaman kasus spesifik, hingga pengembangan model pemrosesan data.
 
 # Struktur Dataset
 
@@ -18,4 +18,5 @@ Setiap dokumen putusan dalam dataset ini terdiri dari beberapa bagian utama, yan
 11. Penutup, Menyajikan penutup atau ringkasan dari seluruh putusan pengadilan.
 
 # Referensi
-Nuranti, E. Q., Yulianti, E., & Husin, H. S. (2022). Predicting the Category and the Length of Punishment in Indonesian Courts Based on Previous Court Decision Documents. Computers, 11(6), 88.
+
+Syah Nata, Y. (2020). Review of the Crime of Narcotics Abuse for Yourself (Case Study of Raha District Court Decision Number. In Technology, Education, and Social Science (Vol. 2020).
